@@ -5,7 +5,7 @@ Aluno Nome Sobrenome:  Gabriel Fernandes Rasquinho  \
 Prof. Quirino         <luiz.quirino@ifsp.edu.br>
 
 ## Descrição das etapas implementadas :
-- etapa 1 - xxx%
+- etapa 1 - Funcionalidade de adicionar Tasks
 - etapa 2 - xxx%
 - etapa 3 - xxx%
 - ...
