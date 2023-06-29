@@ -1,7 +1,7 @@
 # 2023.1.DW2A4
 Repositório modelo para o projeto da disciplina de 2023.1 - DW2A4 - do IFSP 
 
-Aluno Nome Sobrenome  <mail@aluno.ifsp.edu.br>  \
+Aluno Nome Sobrenome  Gabriel Fernandes Rasquinho  \
 Prof. Quirino         <luiz.quirino@ifsp.edu.br>
 
 ## Descrição das etapas implementadas :
