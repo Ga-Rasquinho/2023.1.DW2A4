@@ -6,7 +6,7 @@ Prof. Quirino         <luiz.quirino@ifsp.edu.br>
 
 ## Descrição das etapas implementadas :
 - etapa 1 - Funcionalidade de adicionar Tasks
-- etapa 2 - xxx%
+- etapa 2 - Funcionalidades de deletar Tasks e trocar de página
 - etapa 3 - xxx%
 - ...
   Use o readme para documentar o andamento do seu projeto.
